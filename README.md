@@ -3,7 +3,7 @@ This repository includes all the kext and configuration for Gigabyte H87M-D3H In
 
 All the supporting kext and configuration for following specification are included in this repository. Everything is working fine on my build. If you need any guides or support feel free to ping.
 
-My very best friend [Motasim Foad](https://github.com/motasimfoad) contributed massively on this project for which I can never thank him enough.
+My very best friend [Motasim Foad](https://github.com/motasimfoad) guided me through this project!!
 
 You can visit my website to know more about my works & also to contact me. 
 My website : https://aqeebimtiaz.github.io
