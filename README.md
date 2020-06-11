@@ -1,12 +1,17 @@
-# EFI-for-Mojave-Hackintosh-Gigabyte-Z390-i39100-RX580-8GB
-This repository includes all the kext and configuration for  Gigabyte Z390 Intel i3 9100 with RX580 Mojave Hackintosh EFI(Clover). 
+# EFI-for-High-Sierra-Hackintosh-Gigabyte-H87M-D3H-i34440-HD4600-8GB
+This repository includes all the kext and configuration for Gigabyte H87M-D3H Intel i3 4440 with HD4600 Mojave Hackintosh EFI(Clover). 
 
 All the supporting kext and configuration for following specification are included in this repository. Everything is working fine on my build. If you need any guides or support feel free to ping.
 
+My very best friend [Motasim Foad](https://github.com/motasimfoad) contributed massively on this project for which I can never thank him enough
+
 You can visit my website to know more about my works & also to contact me. 
-  My website : https://motasimfoad.com/contact  
+  My website : https://aqeebimtiaz.github.io
 
 
-Specification :
+## Specification :
 
-Processor : Intel, i3 9100 Graphics : RX580 , 8GB, Motherboard : Gigabyte Z390
+Processor : Intel, i3 4440 
+Graphics : HD4600 , 
+RAM : 8GB, 
+Motherboard : Gigabyte H87M-D3H
